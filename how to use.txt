@@ -1,0 +1,1 @@
+Place the avatar file that needs to be decompiled into the 新建文件夹 (2) folder, then choose to open the software and select Open File.
