@@ -2,6 +2,10 @@
 
 This program is based on AssetRipper modifications and is specifically designed to decompile VRChat avatar files
 
+This program is specifically designed for decompilation of shaders, and may not only handle VRChat's avatar files
+
+Please let me know if there are any problems during use
+
 # Legal Disclaimers
 
 AssetRipper is licensed under the [GNU General Public License v3.0](License.md).
